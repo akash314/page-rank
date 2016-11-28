@@ -1,1 +1,1 @@
-# Removing red links and calculate page rank form Wikipedia data set.
+# Removing red links and calculating page rank form Wikipedia data set.
